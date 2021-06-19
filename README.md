@@ -13,11 +13,11 @@
 -   <b>BackEnd</b>
       - <b>JAVA</b>, python
       - Spring MVC, <b>Spring Boot</b>, 
-      - MYSQL, ORACLE 
+      - <b>MYSQL</b>, ORACLE 
       - <b>Tomcat</b>, Wildfly 
-      - Maven
-      - eclipse, Intellij, VSCode, DBeaver, Vim
-      - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+      - <b>Maven<b>, Gradle
+      - eclipse, <b>Intellij</b>, VSCode, DBeaver, Vim
+      - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git), Git Bash
 
 - 현재는 Cloud 환경의 devops와 MSA 패턴에 관심을 갖고 Spring Cloud, k8s + docker, Jenkins에 대해 공부하고 있습니다 
 ### Education
@@ -27,7 +27,7 @@
 
 ### contact Me 
 
-<b>blog</b> <a href = "https://blog.naver.com/qodbwls70"><b>기록저장소</b></a>
+<b>blog</b> <a href = "https://blog.naver.com/qodbwls70"><b>기록하는 곳</b></a>
 <b>email</b> qodbwls70@naver.com
 
 

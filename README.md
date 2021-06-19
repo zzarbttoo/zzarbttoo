@@ -1,8 +1,7 @@
 
-<div>
+
 <h2>Hello world~!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 </h2>
-</div>
 
 <img src="./gifs/zzarbttoo_hello.gif">
 
@@ -12,7 +11,7 @@
 
 ### Skills 
 -   <b>BackEnd</b>
-      - ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java), python
+      - <b>JAVA</b>, python
       - Spring MVC, <b>Spring Boot</b>, 
       - MYSQL, ORACLE 
       - <b>Tomcat</b>, Wildfly 
@@ -20,7 +19,7 @@
       - eclipse, Intellij, VSCode, DBeaver, Vim
       - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-- 현재는 Cloud 환경의 devops와 MSA 패턴에 관심을 갖고 Spring Cloud, k8s + ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker), Jenkins에 대해 공부하고 있습니다 
+- 현재는 Cloud 환경의 devops와 MSA 패턴에 관심을 갖고 Spring Cloud, k8s + docker, Jenkins에 대해 공부하고 있습니다 
 ### Education
 
 - 숭실대학교 산업정보시스템공학과 졸업(21.02)

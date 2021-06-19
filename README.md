@@ -12,7 +12,7 @@
 ### Skills 
 -   <b>BackEnd</b>
       - <b>JAVA</b>, python
-      - Spring MVC, <b>Spring Boot</b>, 
+      - Spring MVC, <b>Spring Boot</b>
       - <b>MYSQL</b>, ORACLE 
       - <b>Tomcat</b>, Wildfly 
       - <b>Maven</b>, Gradle

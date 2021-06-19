@@ -15,7 +15,7 @@
       - Spring MVC, <b>Spring Boot</b>, 
       - <b>MYSQL</b>, ORACLE 
       - <b>Tomcat</b>, Wildfly 
-      - <b>Maven<b>, Gradle
+      - <b>Maven</b>, Gradle
       - eclipse, <b>Intellij</b>, VSCode, DBeaver, Vim
       - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git), Git Bash
 

@@ -22,12 +22,12 @@
 - 현재는 Cloud 환경의 devops와 MSA 패턴에 관심을 갖고 Spring Cloud, k8s + docker, Jenkins에 대해 공부하고 있습니다 
 ### Education
 
-- 숭실대학교 산업정보시스템공학과 졸업(21.02)
-- KH 정보교육원 웹기반 빅데이터 전문가 양성과정 수강 
+- 숭실대학교 산업정보시스템공학과 졸업(17.03~21.02)
+- KH 정보교육원 웹기반 빅데이터 전문가 양성과정 수강(20.06~21.01)
 
 ### contact Me 
 
-<b>blog</b> <a href = "https://blog.naver.com/qodbwls70"><b>기록하는 곳</b></a>
+<b>blog</b> <a href = "https://blog.naver.com/qodbwls70"><b>기록하는 곳</b></a><br/>
 <b>email</b> qodbwls70@naver.com
 
 

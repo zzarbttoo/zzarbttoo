@@ -19,7 +19,7 @@
       - eclipse, <b>Intellij</b>, VSCode, DBeaver, Vim
       - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git), Git Bash
 
-- 현재는 Cloud 환경의 devops와 MSA 패턴에 관심을 갖고 Spring Cloud, k8s + docker, Jenkins에 대해 공부하고 있습니다 
+
 ### Education
 
 - 숭실대학교 산업정보시스템공학과 졸업(17.03~21.02)

@@ -17,8 +17,7 @@
       - <b>Tomcat</b>, Wildfly 
       - <b>Maven</b>, Gradle
       - eclipse, <b>Intellij</b>, VSCode, DBeaver, Vim
-      - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git), Git Bash
-
+      - Git, Git Bash
 
 ### Education
 
@@ -27,7 +26,8 @@
 
 ### contact Me 
 
-<b>blog</b> <a href = "https://blog.naver.com/qodbwls70"><b>기록하는 곳</b></a><br/>
+<b>dev_blog</b>  <a href = "https://velog.io/@zzarbttoo"><b>zzarbttoo.log</b></a><br/>
+<b>travel_blog</>  <a href = "https://blog.naver.com/qodbwls70"><b>기록하는 곳</b></a><br/>
 <b>email</b> qodbwls70@naver.com
 
 

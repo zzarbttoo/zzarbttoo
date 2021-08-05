@@ -27,7 +27,7 @@
 ### contact Me 
 
 <b>dev_blog</b>  <a href = "https://velog.io/@zzarbttoo"><b>zzarbttoo.log</b></a><br/>
-<b>travel_blog</>  <a href = "https://blog.naver.com/qodbwls70"><b>기록하는 곳</b></a><br/>
+<b>travel_blog<b/>  <a href = "https://blog.naver.com/qodbwls70"><b>기록하는 곳</b></a><br/>
 <b>email</b> qodbwls70@naver.com
 
 

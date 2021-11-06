@@ -24,11 +24,22 @@
 - 숭실대학교 산업정보시스템공학과 졸업(17.03~21.02)
 - KH 정보교육원 웹기반 빅데이터 전문가 양성과정 수강(20.06~21.01)
 
-### contact Me 
+### contact me 
 
 <b>dev_blog</b>  <a href = "https://velog.io/@zzarbttoo"><b>zzarbttoo.log</b></a><br/>
-<b>TIL+journal_blog<b/>  <a href = "https://blog.naver.com/qodbwls70"><b>기록하는 곳</b></a><br/>
 <b>email</b> qodbwls70@naver.com
+
+### challenge
+
+<b>solved.ac</b><br/>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qodbwls70)](https://solved.ac/qodbwls70)
+- 실버를 넘어 언젠간 플레를 갈거야(성장형으로 운영을 잘해서 언젠간 플레에 갈거야)
+<br/>
+
+<b>개발</b><br/>
+- 즐겁게 개발해보자 
+- 항상 더 잘하려고 노력해보자 
+- 개발만 잘 하는 사람은 되지 말자
 
 
   

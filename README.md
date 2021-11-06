@@ -31,9 +31,6 @@
 
 ### challenge
 
-<br/>
-
-<b>solved.ac</b><br/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qodbwls70)](https://solved.ac/qodbwls70)
 - 실버를 넘어 언젠간 플레를 갈거야(성장형으로 운영을 잘해서 언젠간 플레에 갈거야)
 <br/>
